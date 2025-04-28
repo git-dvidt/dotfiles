@@ -1,4 +1,8 @@
 # dotfiles
+Theme:
+- GTK Gruvbox
+Terminal:
+- Kitty
 Extensions:
 - Blur my Shell
 - Dash to Dock
